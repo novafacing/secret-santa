@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "secret_santa"
+version = "0.1.0"
+description = "A solver for the secret santa sat problem"
+authors = ["novafacing <rowanbhart@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+z3-solver = "^4.8.12"
+pytest = "^6.2.5"
+
+[tool.poetry.dev-dependencies]
+black = "^21.10b0"
+isort = "^5.10.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

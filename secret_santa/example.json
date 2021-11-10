@@ -1,0 +1,26 @@
+{
+    "participants": [
+        "Austin",
+        "Brian",
+        "Charles",
+        "Cody",
+        "Connor",
+        "Eric",
+        "Hunter",
+        "Jordan",
+        "Julie",
+        "Nicki",
+        "Rowan",
+        "Stewart"
+    ],
+    "rules": [
+        [
+            "Brian",
+            "Jordan"
+        ],
+        [
+            "Eric",
+            "Julie"
+        ]
+    ]
+}
